@@ -1,6 +1,6 @@
 <script context="module">
   export async function preload () {
-    console.log('outside preload')
+    console.log('level1 preload')
   }
 </script>
 
